@@ -1,6 +1,6 @@
 {
   "name": "process-list",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Cross-platform method to receive the list of the launched processes",
   "main": "index.js",
   "scripts": {
@@ -39,7 +39,7 @@
     "mocha": "^2.1.0"
   },
   "dependencies": {
-    "nan": "^1.6.2"
+    "nan": "^2.4.0"
   },
   "gypfile": true
 }
